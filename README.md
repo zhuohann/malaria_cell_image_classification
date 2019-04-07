@@ -1,1 +1,1 @@
-# Malaria_Cell_Image_Classification
+# Malaria Cell Image Classification
